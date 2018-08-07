@@ -1,0 +1,2 @@
+-Dar prioridad usando el grafo y las conexiones a los elementos mas internos del corridor si rodeado de juctions o en
+un extremo si hay un dead end.

@@ -1,0 +1,9 @@
+*~
+*.zip
+**/__pycache__/*
+**/.eggs
+*egg-info*
+.idea/
+dist/
+build/
+**/*.orig

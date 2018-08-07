@@ -1,0 +1,29 @@
+blue: 0,R,B
+red: 1,C,T
+yellow: 2,E
+cyan: 3,F,G
+pink: 4,H,Q
+magenta: 5,J,P
+green: K,A,L,D,I
++++++++++++++++++++++++++++++++++
++ 1 +E          e+rrrrrrrrrrrrrr+
++   +E          e+              +
+++ ++E          e+              +
+++ ++E          e+              +
+++B++            +RRRRRRRRRRRRRR+
++                               +
++                               +
++         0                     +
++                               +
++                               +
+++T++            +CCCCCCCCCCCCCC+
+++ ++            +              +
+++ ++            +              +
++   +            +              +
++ 2 +            +cccccccccccccc+
++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++
++3Ff +hH4  +5J    +             +
++ G  +     +Pj    +  K A L D I  +
++    +  Q  +      +             +
++++++++++++++++++++++++++++++++++

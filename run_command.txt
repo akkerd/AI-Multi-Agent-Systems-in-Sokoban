@@ -1,0 +1,22 @@
+java -jar server.jar -l levels/SAFirefly.lvl  -c "python src/searchclient -s astar -g" -g 50 -t 180
+
+java -jar server.jar -l levels/SAFirefly/MAMoveBoxConflict.lvl  -c "python src/searchclient -s astar" -g 50 -t 180
+
+java -jar server.jar -l levels/SASolo.lvl -c "python src/searchclient -s astar -g" -g 50 -t 300
+
+java -jar server.jar -l levels/SAOptimal2.lvl -c "python src/searchclient -s rmv -g" -g 50 -t 300
+
+
+java -jar server.jar -l competition_levels/SAAiAiCap.lvl -c "python src/searchclient -s astar -g spc" -g 30 -t 180
+
+java -jar server.jar -l levels/testcases/MASharedGoalsConflict.lvl -c "python src/searchclient -s astar -g" -g 50 -t 300
+
+master-branch
+Summary for Best-first Search (PriorityQueue) using A* evaluation.
+Found solution of length 2024.
+#Explored: 2068, #Frontier: 16012, Time: 32.81 s, Alloc: 223.34 MB, MaxAlloc: 512.00 MB.
+
+develop_sa
+Summary for BFS.
+Found solution of length 2024.
+#Explored: 2111, #Frontier: 16011, Time: 21.54 s, Alloc: 46.84 MB, MaxAlloc: 2048.00 MB.

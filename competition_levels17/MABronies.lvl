@@ -1,0 +1,18 @@
+green: 1,A,F,K,P,U
+red: 0,B,G,L,Q,V
+yellow: 2,C,H,M,R
+blue: 3,D,I,N,S
+pink: 4,E,J,O,T
+++++++++++++++++
++0 A   E    B 2+
+++++    O   ++++
++1   G    F    +
++  V    H   T+ +
++ P  K     I +C+
++ L     J    +3+
++    M     N +++
++ S R   Q   U  +
++g+j+m+p+s+v++D+
++f+i+l+o+r+u++ +
++e+h+k+n+q+t++4+
+++++++++++++++++

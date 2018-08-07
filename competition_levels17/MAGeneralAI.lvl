@@ -1,0 +1,31 @@
+red: 0,A
+green: 1,B
+blue: 2,C
+yellow: 3,D
+orange: 4,E,F,G,H,N
+pink: 5,I,J,K,L,M
+cyan: 6,Z
+magenta: 7,W
+++++++++++++
++0 B    C 1+
+++++    ++++
++aA       b+
+++++    ++++
++2 D      3+
+++++++++++++
++i+ N    +e+
++j+      +f+
++k+  M   +g+
++l+ 4  5 +h+
++m       +n+
++          +
++          +
++          +
++ EFGHIJKL +
+++++++++++++
++6ZW W W Wz+
+++++++ +++++
++    7     +
++          +
++          +
+++++++++++++

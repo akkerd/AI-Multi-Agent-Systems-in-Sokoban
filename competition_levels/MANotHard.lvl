@@ -1,0 +1,20 @@
+blue: 0,5,A,E,J,K,L
+red: 1,B
+yellow: 2,4,C, M, N, P
+magenta: 3,7,D,G
+blue: 6,F
+cyan: 8,9,H,I,Q,R
+++++++++++++++++++++++++
++ a G 1          7 A g +
++ b H 2 +++   ++ 8 B h +
++ c I 3 ++++++++ 9 C i +
++                      +
++    q              n  +
++         MNPQ         +
++        R             +
++    m             p   +
++          r           +
++ d J 4          0 D j +
++ e K 5 ++++++++   E k +
++ f L 6            F l +
+++++++++++++++++++++++++

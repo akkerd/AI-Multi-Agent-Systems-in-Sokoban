@@ -1,0 +1,25 @@
+red: 0, A
+blue: 1, B
+pink: 2, C
+cyan: 3, D
+green: 4, E
+yellow: 5, F
+orange: 6, G
+magenta: 7, H
+++++++++++++++
++0  H       a+
++            +
++1  G       b+
++            +
++2  F       c+
++            +
++3  E       d+
++            +
++4  D       e+
++            +
++5  C       f+
++            +
++6  B       g+
++            +
++7  A       h+
+++++++++++++++
